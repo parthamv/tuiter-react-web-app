@@ -1,0 +1,165 @@
+body{
+background-color:black;
+}
+
+.wd-bookmarkContainer{
+border:1px solid rgb(47,51,54);
+height:180.8vh;
+margin-left:100px;
+width:600px;
+}
+
+.wd-bookmarkHeader1{
+padding-left:16px;
+padding-top:12px;
+color:white;
+font-size:20px;
+font-weight:bold;
+margin-bottom:3px;
+margin-top:0px;
+}
+
+.wd-bookmarkDots{
+float:right;
+margin-right:16px;
+padding-left:16px;
+margin-bottom:0px;
+}
+
+.wd-bookmarkHandle{
+color:#555555;
+border-bottom:1px solid rgb(47,51,54);
+font-size:13px;
+padding-left:12px;
+margin-top:0px;
+padding-bottom:12px;
+margin-bottom:0px;
+}
+
+.wd-bookmarkImage{
+
+margin-top:0px;
+overflow:hidden;
+object-fit:cover;
+padding-top:12px;
+padding-left:16px;
+height:103px;
+}
+.wd-imageCover{
+height:100px;
+width:48px;
+margin-right:0px;
+float:left;
+}
+
+.wd-bookmarkImage img{
+border-radius:24px;
+height:48px;
+width:48px;
+float:left;
+}
+
+.wd-userDetails{
+margin-left:0px;
+padding-left:12px;
+margin-top:0px;
+float:left;
+width:500px;
+}
+
+.wd-userName {
+font-size:15px;
+color:white;
+margin:0px;
+font-weight:bold;
+width:520px;
+}
+
+.wd-userHandle{
+color:#555555;
+font-weight:lighter;
+}
+
+.wd-userBookmarkContent{
+color:white;
+font-size:15px;
+width:500px;
+margin:0px;
+padding-left:60px;
+padding-top:20px;
+}
+
+.wd-secondContainer{
+padding-top:12px;
+padding-left:77px;
+width:504px;
+height:264px;
+}
+
+.wd-secondImage{
+width:504px;
+height:264px;
+border-top-left-radius: 24px;
+border-top-right-radius: 24px;
+border:1px solid rgb(47,51,54);
+object-fit:cover;
+}
+
+.wd-thirdContainer{
+padding-top:0px;
+padding-left:65px;
+}
+
+.wd-thirdContent{
+border:1px solid rgb(47,51,54);
+width:503px;
+height:94px;
+margin-left:12px;
+border-bottom-left-radius: 24px;
+border-bottom-right-radius: 24px;
+}
+
+.wd-boxContainer{
+padding:12px;
+margin:0px;
+width:504px;
+height:70px;
+}
+
+.wd-thirdContentHeader{
+color:white;
+font-weight:bold;
+font-size:15px;
+margin:0px;
+border-bottom:0px;
+border-top:0px;
+}
+
+.wd-thirdContentFill{
+color:#555555;
+margin:0px;
+width:450px;
+height:auto;
+}
+
+.wd-iconList{
+list-style:none;
+width:504px;
+padding-top:12px;
+padding-left:77px;
+justify-content: space-between;
+}
+
+.wd-iconList li {
+    display:block;
+	width:110px;
+	float:left;
+	margin-left:6px;
+}
+
+.wd-icon{
+    margin-left: 12px;
+    font-size:15px;
+    font-weight:lighter;
+}
+
