@@ -4,9 +4,9 @@ background-color:black;
 
 .wd-bookmarkContainer{
 border:1px solid rgb(47,51,54);
-height:180.8vh;
 margin-left:100px;
 width:600px;
+height:145vh;
 }
 
 .wd-bookmarkHeader1{
@@ -24,6 +24,7 @@ float:right;
 margin-right:16px;
 padding-left:16px;
 margin-bottom:0px;
+
 }
 
 .wd-bookmarkHandle{
