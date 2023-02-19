@@ -1,0 +1,256 @@
+ .wd-icon {
+    border-top-left-radius: 40px !important;
+    border-bottom-left-radius: 40px !important;
+    background-color: white !important;
+border-right:0px;
+}
+
+.wd-ImageWrapper{
+display:flex;
+}
+
+.boxContainer .card img {
+    width: 100px;
+    margin:10px;
+    border-radius:20px;
+
+  }
+
+.wd-searchBar {
+    border-top-right-radius: 40px !important;
+    border-bottom-right-radius: 40px !important;
+    background-color: white !important;
+    color: darkgray !important;
+    border-left:0px;
+    }
+
+.wd-FollowButton{
+border-radius:40px;
+height:20px;
+padding-bottom:30px;
+}
+
+
+.wd-userTag{
+font-size:13px;
+margin-bottom:0px;
+}
+
+.wd-contentFont{
+padding-left:0px;
+font-weight:bold;
+font-size:13px;
+padding-top:0px;
+}
+
+.wd-button{
+border-radius:50px;
+}
+
+.wd-photoContent{
+position:relative;
+top:-70px;
+color:#696463;
+font-weight:bold;
+
+}
+
+.wd-centreFont{
+padding-left:0px;
+font-weight:bold;
+font-size:14px;
+padding-top:0px;
+margin-bottom:4px;
+margin-top:4px;
+}
+
+.wd-Time{
+font-weight:450;
+font-size:14px;
+color:#696463;
+margin-bottom:0px;
+}
+
+.wd-Bottom{
+font-weight:450;
+font-size:14px;
+color:#696463;
+margin-top:0px;
+}
+
+
+
+.wd-navBar{
+margin-right:0px;
+}
+
+
+
+
+ .boxContainer .card{
+ flex-direction:row;
+ }
+
+ .boxContainer{
+ margin-left:-12px;
+ }
+
+
+ body{
+ background-color:black;
+ }
+
+ .wd-bookmarkContainer{
+ border:1px solid rgb(47,51,54);
+ margin-left:100px;
+ width:600px;
+ height:145vh;
+ }
+
+ .wd-bookmarkHeader1{
+ padding-left:16px;
+ padding-top:12px;
+ color:white;
+ font-size:20px;
+ font-weight:bold;
+ margin-bottom:3px;
+ margin-top:0px;
+ }
+
+ .wd-bookmarkDots{
+ float:right;
+ }
+
+ .wd-bookmarkHandle{
+ color:#555555;
+ border-bottom:1px solid rgb(47,51,54);
+ font-size:13px;
+ padding-left:12px;
+ margin-top:0px;
+ padding-bottom:12px;
+ margin-bottom:0px;
+ }
+
+ .wd-bookmarkImage{
+
+ margin-top:0px;
+ overflow:hidden;
+ object-fit:cover;
+ padding-top:12px;
+ padding-left:16px;
+ height:103px;
+ }
+ .wd-imageCover{
+ height:100px;
+ width:48px;
+ margin-right:0px;
+ float:left;
+ }
+
+ .wd-bookmarkImage img{
+ border-radius:24px;
+ height:48px;
+ width:48px;
+ float:left;
+ }
+
+ .wd-userDetails{
+ margin-left:0px;
+ padding-left:12px;
+ margin-top:0px;
+ float:left;
+ width:500px;
+ }
+
+ .wd-userName {
+ font-size:15px;
+ color:white;
+ margin-left:8px;
+ font-weight:bold;
+ }
+
+ .wd-userHandle{
+ color:#555555;
+ font-weight:lighter;
+ }
+
+ .wd-userBookmarkContent{
+ color:white;
+ font-size:15px;
+ width:500px;
+ margin-left:0px;
+ padding-left:55px;
+ padding-top:0px;
+ }
+
+ .wd-secondContainer{
+ padding-top:12px;
+ width:90%;
+
+ }
+
+ .wd-secondImage{
+ border-top-left-radius: 24px;
+ border-top-right-radius: 24px;
+ border:1px solid rgb(47,51,54);
+ }
+
+ .wd-thirdContainer{
+  margin-top:0px;
+  margin-left:56px;
+width:90%;
+
+ }
+
+ .wd-thirdContent{
+ border:1px solid rgb(47,51,54);
+ border-bottom-left-radius:24px;
+  border-bottom-right-radius:24px;
+ }
+
+ .wd-boxContainer{
+ padding:12px;
+ margin:0px;
+ width:auto;
+ height:auto;
+ }
+
+ .wd-thirdContentHeader{
+ color:white;
+ font-size:15px;
+ margin-left:0px;
+ border-bottom:0px;
+ border-top:0px;
+ height:auto;
+ width:auto;
+ margin-bottom:0px;
+ }
+
+ .wd-thirdContentFill{
+ color:#555555;
+ margin:0px;
+ width:auto;
+ height:auto;
+ margin-left:0px;
+ }
+
+ .wd-iconList{
+ list-style:none;
+ margin-left:54px;
+ }
+
+ .wd-iconList li {
+     display:block;
+ 	width:auto;
+ 	float:left;
+
+
+ }
+
+ .wd-flashicon{
+     margin-left: 0px;
+     font-size:15px;
+     color:#555555;
+
+ }
+

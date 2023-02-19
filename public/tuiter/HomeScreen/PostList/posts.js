@@ -1,0 +1,27 @@
+export default [
+   {
+       userName: 'Elon Musk',
+       userHandle:'elonmusk',
+      avatarImage:'../explore/elonavatar.jpg',
+       time: '2h',
+       title: 'Amazing show about Inspiration4x mission!',
+       blogimage: '../explore/elonmuskcontent.jpg',
+       blogTitle:'Countdown: Inspiration4 Mission to Space | Netflix Official Site',
+       blogContent:'From training to launch to landing, this all-access docuseries rides along with the Inspiration4 crew on the first all-civilian orbital space ...',
+       comment:'22',
+       retweet:'25',
+       likes:'28',
+   },
+   {
+          userName: 'Sasuke Uchiha',
+          userHandle:'sasuke',
+          avatarImage:'../explore/itachi.jpg',
+          time: '22h',
+          title: 'Official Announcement regarding Naruto Universe!',
+          blogimage: '../explore/naruto.jpg',
+          blogTitle:'Official update hints at new Naruto Anime announcement in Jump Festa 2023',
+       blogContent:'The Naruto universe will take the stage on Saturday, December 17. The timing is 3:35 Pm to 4:15 pm JST. The possibilities seem more leaning toward the anime adaptation of the recent Naruto Spin-Off manga adaptation of the Sasuke Restuden light novel. Yep, that’s a huge line of adaptations.',
+          comment:'321',
+          retweet:'265',
+          likes:'223',
+      },];
