@@ -1,0 +1,103 @@
+.wd-ClassImage{
+height:48px;
+width:48px;
+border-radius:24px;
+object-fit:cover;
+margin-top:5px;
+}
+
+.wd-userName{
+display:inline-block;
+font-size:15px;
+margin-left:5px;
+margin-top:-10px;
+}
+
+
+.wd-userName{
+color:black;
+font-size:14px;
+margin-left:10px;
+}
+.wd-circle{
+margin-left:2px;}
+
+.wd-userVerification{
+color:#555555;
+float:right;
+margin-top:5px;
+}
+
+.wd-postTitle{
+margin-left:56px;
+margin-top:-18px;
+}
+
+.wd-blogInfo{
+margin-left:52px;
+margin-bottom:0px;
+}
+
+.wd-blogImage{
+width:100%;
+height:auto;
+}
+
+.wd-secondImage{
+ border-top-left-radius: 24px;
+ border-top-right-radius: 24px;
+ border:1px solid rgb(47,51,54);
+ }
+
+.wd-thirdContent{
+ border:0px solid rgb(47,51,54);
+ border-bottom-left-radius:24px;
+  border-bottom-right-radius:24px;
+ }
+
+ .wd-blogContent{
+ margin-top:10px;
+ margin-left:52px;
+ font-size:15px;
+ }
+
+ .wd-blogTitle{
+ font-weight:600;
+ }
+
+ .wd-blogPara{
+ color:black;
+ font-size:14px;
+ margin-top:-20px;
+ font-weight:400;
+ }
+
+ .wd-likeBox{
+ list-style:none;
+ margin-left:70px;
+ align-items:center;
+ justify-content:space-between;
+ width:70%;
+
+ }
+
+ .wd-paraIcons{
+ text-decoration:none;
+ }
+
+ .wd-newIcons{
+ font-size:14px;
+  text-decoration:none;
+  color:black;
+ }
+
+ .wd-newIconsRed{
+  font-size:14px;
+   text-decoration:none;
+   color:red;
+  }
+
+ .wd-likeContent{
+ margin-left:5px;
+ color:#52595D
+ }

@@ -1,0 +1,41 @@
+.wd-profContainer {
+    color: #212529;
+}
+.wd-logoBar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border-top-left-radius: 50% !important;
+    border-top-right-radius: 50% !important;
+  }
+
+  ul.wd-navList {
+    padding: 0;
+  }
+  ul.wd-navList li {
+    display: inline;
+  }
+  ul.wd-navList li a {
+    /* background-color: black;   */
+    color: rgb(110, 118, 125);
+    padding: 10px 0px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+  }
+
+  .wd-navList {
+    list-style: none;
+    width: 700px !important;
+}
+
+  .wd-navList li {
+    display:block;
+	width:140px !important;
+	float:left;
+	margin-left:2px;
+
+}
+
+.wd-iconSpace{
+display:inline;
+}
