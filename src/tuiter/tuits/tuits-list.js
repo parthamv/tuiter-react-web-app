@@ -1,5 +1,5 @@
 //import "./post.css"
-import React, {useEffect} from "react";
+import React, {useEffect,useState} from "react";
 // import PostsArray from './post.json';
 import TuitItem from "./TuitItem";
 import {useDispatch, useSelector} from "react-redux";
@@ -12,8 +12,10 @@ const TuitsList = () =>  {
                          const dispatch = useDispatch();
                          useEffect(() => {
                            dispatch(findTuitsThunk())
-                         }, [dispatch]);
+                         }, []);
 console.log(tuits)
+
+
  return(
 <div>
 

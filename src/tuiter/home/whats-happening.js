@@ -12,6 +12,7 @@ const WhatsHappening = () => {
         tuit: whatsHappening
       }
       dispatch(createTuitThunk(newTuit));
+      window.location.reload();
  }
  return (
    <div className="row">
