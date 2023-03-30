@@ -12,7 +12,8 @@ const WhatsHappening = () => {
         tuit: whatsHappening
       }
       dispatch(createTuitThunk(newTuit));
-      window.location.reload();
+      setWhatsHappening("")
+      //window.location.reload();
  }
 
 
