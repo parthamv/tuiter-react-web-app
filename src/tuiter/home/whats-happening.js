@@ -14,6 +14,10 @@ const WhatsHappening = () => {
       dispatch(createTuitThunk(newTuit));
       window.location.reload();
  }
+
+
+
+
  return (
    <div className="row">
      <div className="col-auto">
